@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\CSGOSoftwareBypass\CSGOSoftwareBypass\bin\Debug\CSGOSoftwareBypass.exe.config
+C:\Users\User\source\repos\CSGOSoftwareBypass\CSGOSoftwareBypass\bin\Debug\CSGOSoftwareBypass.exe
+C:\Users\User\source\repos\CSGOSoftwareBypass\CSGOSoftwareBypass\bin\Debug\CSGOSoftwareBypass.pdb
+C:\Users\User\source\repos\CSGOSoftwareBypass\CSGOSoftwareBypass\obj\Debug\CSGOSoftwareBypass.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CSGOSoftwareBypass\CSGOSoftwareBypass\obj\Debug\CSGOSoftwareBypass.Form1.resources
+C:\Users\User\source\repos\CSGOSoftwareBypass\CSGOSoftwareBypass\obj\Debug\CSGOSoftwareBypass.Properties.Resources.resources
+C:\Users\User\source\repos\CSGOSoftwareBypass\CSGOSoftwareBypass\obj\Debug\CSGOSoftwareBypass.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CSGOSoftwareBypass\CSGOSoftwareBypass\obj\Debug\CSGOSoftwareBypass.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSGOSoftwareBypass\CSGOSoftwareBypass\obj\Debug\CSGOSoftwareBypass.exe
+C:\Users\User\source\repos\CSGOSoftwareBypass\CSGOSoftwareBypass\obj\Debug\CSGOSoftwareBypass.pdb
